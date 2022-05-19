@@ -29,6 +29,7 @@
   * decrementCounter를 1번 더 실시하고, 값이 11이 되는 지 확인한다.
   * decrementCounter를 1번 더 실시하고, 값이 10이 되는 지 확인한다.
   
+* AllThatNode를 활용하여, Ethereum Rinkeby 테스트넷과 Klaytn Baobab 테스트넷에 테스트 코드를 동작시키고 스크린샷을 찍어서 제출한다.
 
 ## 과제 제출 방법
 
