@@ -18,6 +18,7 @@ async function main() {
   TSToken = await TSTokenFactory.deploy(1);
 
   console.log("Token deployed to:", TSToken.address);
+  saveFrontendFiles(token);
 }
 
 // We recommend this pattern to be able to use async/await everywhere
